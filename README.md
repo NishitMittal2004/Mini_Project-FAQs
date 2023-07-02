@@ -1,1 +1,3 @@
-# Mini_Project-FAQs
+# Mini Project - FAQs
+### Implementation of FAQs section's functionality
+### Preview:
